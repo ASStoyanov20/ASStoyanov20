@@ -1,7 +1,7 @@
 # Hi, my name is Alex Stoyanov👋
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://c.tenor.com/RQKAyM7ZHA0AAAAM/banana-dance.gif" />
+<img align="right" height="250" width="375" alt="" src="https://images.ctfassets.net/l3l0sjr15nav/NCqT6EmgLiydETEgvagXG/24e1571ad345881afc6e775bf6f86a82/200611-EN-GIF-GIFs-Rule.gif" />
 
 ## Talking about Personal Stuffs:
 
